@@ -2,14 +2,14 @@
 
 ## Versiones 
 
-### [Version 0](../Trabajo%20Marcas/Versi%C3%B3n%200/index.html)
+### [Version 0](Versi%C3%B3n%200/index.html)
 
 Aquì descripción 
 
-### [Version 1](../Trabajo%20Marcas/Versi%C3%B3n%201/index.html)
+### [Version 1](Versi%C3%B3n%201/index.html)
 
 Aquì descripción
 
-### [Version 2](../Trabajo%20Marcas/Versi%C3%B3n%201/index.html
+### [Version 2](Versi%C3%B3n%201/index.html)
 
 Aquì descripción 
