@@ -3,8 +3,8 @@
 ## Versiones 
 
 ### [Version 0](Versi%C3%B3n%200/index.html)
-
-Aquì descripción 
+en la version 0 solo utilice html sin nada más.
+cree una portada la cual te redirige a la p´gina principal.
 
 ### [Version 1](Versi%C3%B3n%201/index.html)
 
